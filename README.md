@@ -82,23 +82,13 @@
 - **Bhojnalay — Restaurant Management Platform** — A restaurant management and ordering platform concept with menu management, orders, billing, and role-based access.
   - [View Repository](https://github.com/AnshPatthe/Bhojanalay)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnshPatthe&show_icons=true&hide_border=true" alt="Ansh's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshPatthe&layout=compact&hide_border=true" alt="Most used languages" />
-</p>
-
----
 
 ### 🤝 Connect with Me
 
 - GitHub: [AnshPatthe](https://github.com/AnshPatthe)
 - LinkedIn: [Ansh Patthe](https://in.linkedin.com/in/ansh-patthe-ab455b258)
 - Email: [pattheansh@gmail.com](mailto:pattheansh@gmail.com)
-- Portfolio: **Coming Soon**
+- Portfolio: [Ansh Patthe](https://portfolio-lazy-one.vercel.app/)
 
 ---
 
