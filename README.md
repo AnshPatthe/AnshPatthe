@@ -77,8 +77,10 @@
   - [View Repository](https://github.com/AnshPatthe/Gym-Management)
 
 - **AI-Powered Feedback Analysis Platform** — A project concept for analyzing service feedback and presenting sentiment insights through a dashboard.
+ - [View Repository](https://github.com/AnshPatthe/Hospital_Feedback)
 
-- **Vyavastha — Restaurant Management Platform** — A restaurant management and ordering platform concept with menu management, orders, billing, and role-based access.
+- **Bhojnalay — Restaurant Management Platform** — A restaurant management and ordering platform concept with menu management, orders, billing, and role-based access.
+ - [View Repository](https://github.com/AnshPatthe/Bhojanalay)
 
 ---
 
